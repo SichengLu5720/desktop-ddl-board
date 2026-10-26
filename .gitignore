@@ -1,0 +1,10 @@
+# 个人数据与运行产物，不进仓库
+data/workspace.json
+backups/
+logs/
+disabled-agents/
+app/.build/
+AGENTS.md
+.idea/
+.DS_Store
+*.bak-*
